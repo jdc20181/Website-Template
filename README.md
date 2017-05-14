@@ -23,4 +23,4 @@ Commented instructions on what to change is in the CSS file.
 
 Do **NOT** change anything else. This will corrupt the template.
 
-~WIP~
+~ WIP ~
