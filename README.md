@@ -23,4 +23,12 @@ Commented instructions on what to change is in the CSS file.
 
 Do **NOT** change anything else. This will corrupt the template.
 
+You can keep the same colors or change them, just do not edit any other parts. It will make it not work right otherwise. 
+
+You can use 1 color on body background and content background to make a 1-color site. 
+
+I use this many times because its the best way to center a website. This is great for info sites portfolios and small businesses.
+
+
+
 ~ WIP ~
