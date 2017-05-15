@@ -1,10 +1,14 @@
+/*Only change parts I instruct otherwise you will corrupt the whole thing*/
 body {
+    /*Edit Background to a different color, you can also use the same one for a one color based site*/
     background: #555;
 }
 
 .content {
     max-width: 500px;
     margin: auto;
+        /*Edit Background to a different color, you can also use the same one for a one color based site*/
+
     background: white;
     padding: 10px;
 }
@@ -13,6 +17,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
+        /*Edit Background to a different color*/
+
     background-color: #333;
 }
 
@@ -29,16 +35,19 @@ li a {
 }
 
 li a:hover:not(.active) {
+      /*Edit Background to a different color*/
     background-color: #111;
 }
 
 .active {
+      /*Edit Background to a different color*/
     background-color: #4CAF50;
 }
 @media only screen and (max-device-width : 320px)
    .content {
     max-width: 250px;
     margin: auto;
+         /*Edit Background to a different color - Same as content above, this is for mobile configuring.*/
     background: white;
     padding: 10px;
 }
